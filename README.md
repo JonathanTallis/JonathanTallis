@@ -28,7 +28,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanTallis&show_icons=true&theme=radical)  
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanTallis&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTallis&layout=compact&theme=radical)
 
 ---
