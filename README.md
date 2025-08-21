@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Jonathan Tallis
 
-<!--
-**JonathanTallis/JonathanTallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (3º semestre)**  
+💻 Em transição de carreira para **Desenvolvedor Web Fullstack**  
+🚀 Experiência em **HTML, CSS, JavaScript e React.js**  
+🌱 Atualmente desenvolvendo projetos para meu portfólio  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estudo e utilizo
+- **Front-end:** HTML, CSS, JavaScript (ES6+), React.js  
+- **Back-end:** Node.js (Express), PostgreSQL, MongoDB  
+- **Outros:** GitHub, Metodologias Ágeis  
+
+---
+
+## 📂 Projetos em destaque
+- [💧 ODS 6 – Landing Page](https://jonathantallis.github.io/ods6-landing-page/)  
+- [✅ To-do List (JS Puro)](https://jonathantallis.github.io/to-do-list/)  
+
+---
+
+## 📫 Como me encontrar
+🔗 [LinkedIn](https://www.linkedin.com/in/jonathantallis)  
+📧 jonathantallispereira97@outlook.com  
