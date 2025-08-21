@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (3º semestre)**  
 💻 Em transição de carreira para **Desenvolvedor Web Fullstack**  
-🚀 Experiência em **HTML, CSS, JavaScript, React.js e Node.js**  
+🚀 Experiência em **HTML, CSS, JavaScript e React.js**  
 🌱 Atualmente desenvolvendo projetos para meu portfólio  
 
 ---
