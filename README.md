@@ -21,9 +21,9 @@
 
 ## 📂 Projetos em destaque
 
-- [💧 ODS 6 – Landing Page](https://jonathantallis.github.io/ods6-landing-page/)  
-- [✅ To-do List (JS Puro)](https://jonathantallis.github.io/to-do-List/)  
 - [🎬 Projeto NetPrime – Catálogo de Filmes](https://jonathantallis.github.io/netprime/)  
+- [✅ To-do List (JS Puro)](https://jonathantallis.github.io/to-do-List/)  
+- [💧 ODS 6 – Landing Page](https://jonathantallis.github.io/ods6-landing-page/)  
 
 ---
 
