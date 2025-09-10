@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Jonathan Tallis
+# 👋 Prazer, sou Jonathan Tallis!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (3º semestre)**  
 💻 Em transição de carreira para **Desenvolvedor Web Fullstack**  
